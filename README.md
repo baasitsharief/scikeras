@@ -4,7 +4,7 @@
 [![Coverage Status](https://codecov.io/gh/adriangb/scikeras/branch/master/graph/badge.svg)](https://codecov.io/gh/adriangb/scikeras)
 [![Docs](https://github.com/adriangb/scikeras/workflows/Build%20Docs/badge.svg)](https://www.adriangb.com/scikeras/)
 
-* Added support for Keras Models with text input *
+* Added support for Keras Models with text input
 
 Scikit-Learn compatible wrappers for Keras Models.
 
